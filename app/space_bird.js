@@ -271,14 +271,14 @@
         ];
         Space.BACKGROUND = "img/background.jpg";
         return Space;
-    }());
+    })();
     var Board = (function () {
         function Board(width, height) {
             this.width = width;
             this.height = height;
         }
         return Board;
-    }());
+    })();
     var Bird = (function () {
         function Bird(board) {
             this.board = board;
@@ -373,5 +373,6 @@
         Bird.VMAX = 1000.0;
         Bird.VMIN = 100.0;
         return Bird;
-    }());
+    })();
 })();
+//# sourceMappingURL=space_bird.js.map
