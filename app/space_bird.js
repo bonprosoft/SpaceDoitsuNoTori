@@ -267,7 +267,8 @@
         Space.MAX_RADIUS = Math.floor(576 * Space.MAX_SCALE);
         Space.TIMEOUT = 17;
         Space.BIRDS = [
-            "img/bird1.png"
+            "img/bird1.png",
+            "img/csharptan_sd.png"
         ];
         Space.BACKGROUND = "img/background.jpg";
         return Space;

@@ -199,7 +199,8 @@
 
         static TIMEOUT: number = 17;
         static BIRDS: Array<string> = [
-            "img/bird1.png"
+            "img/bird1.png",
+            "img/csharptan_sd.png"
         ];
         static BACKGROUND: string = "img/background.jpg"
 
